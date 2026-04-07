@@ -12,6 +12,3 @@ SQL • DBeaver • SQLite
 - Top produits
 - Ventes par catégorie et par mois
 - Top clients
-
-```sql
-SELECT SUM(Sales) FROM sales;
