@@ -1,0 +1,11 @@
+Order_ID,Product,Category,Sales,Order_Date,Customer
+1,Chaussures,Sport,120,2023-01-05,Ali
+2,T-shirt,Sport,40,2023-01-06,Sarah
+3,Ordinateur,Tech,900,2023-01-07,John
+4,Souris,Tech,25,2023-01-08,Ali
+5,Casque,Tech,60,2023-01-10,Sarah
+6,Ballon,Sport,30,2023-02-02,John
+7,Raquette,Sport,80,2023-02-05,Ali
+8,Clavier,Tech,70,2023-02-07,Sarah
+9,Ecran,Tech,200,2023-02-10,John
+10,Sac,Sport,50,2023-02-15,Ali
